@@ -1,2 +1,2 @@
-# TDA552
-First course in object oreiented design. 
+# OOP and design
+First course in objectoriented programming and design. 
